@@ -48,7 +48,7 @@ Git with Git Bash
 
 Clone a remote repository into a local repository.
 
-cd git/dart
+cd git/dart/educ
 git clone https://github.com/dzenanr/rd.git
 cd rd
 
@@ -68,7 +68,7 @@ git pull origin master
 
 Work with a local repository
 
-cd git/dart/rd
+cd git/dart/educ/rd
 
 git status
 
