@@ -1,4 +1,8 @@
 name: rd
-description: A sample command-line application
+version: 0.0.1
+author: Dzenan Ridjanovic <dzenanr@gmail.com>
+description: rd (random data) librarty for educational purposes.
+homepage: http://ondart.me/
 #dependencies:
 #  unittest: any
+
